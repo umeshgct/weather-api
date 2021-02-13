@@ -8,7 +8,7 @@ Welcome to the Spring Boot Rest API  based Weather application.
  1) Java 8   
  2) Springboot 2.1.6   
  3) apache Maven    
- 4) H2 Database (file will be created in home path)
+ 4) H2 Database (file will be created in home path/db)
 
 ### Steps to run
 
